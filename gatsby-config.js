@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/reactPortfolio",
+  pathPrefix: "/reactPortfolio/",
   siteMetadata: {
     title: `Vinicius Jadiscke`,
     description: `Vincius Jadiscke Web Developer Portfolio Web Page.`,
